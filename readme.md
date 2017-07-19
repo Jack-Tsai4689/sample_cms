@@ -1,3 +1,3 @@
 # Sample CMS 
 
-pratice laravel cmd sample
+pratice laravel cms sample
